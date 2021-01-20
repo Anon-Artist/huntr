@@ -19,5 +19,5 @@ config.parse_configuration_file('config.yml')
 * `pip3 install parlai`
 * `python3 exploit.py`
 
-#Impact
+# Impact
 Arbitrary Code Execution
